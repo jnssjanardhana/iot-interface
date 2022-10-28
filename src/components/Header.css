@@ -1,0 +1,8 @@
+.options a {
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+    background: rgb(0, 89, 178);
+    color: #fff;
+    text-decoration: none;
+  }
